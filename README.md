@@ -11,9 +11,10 @@ Charity_data.csv provides various features about organizations and donations, an
 Based on the results, Model 06 performed the best without overfitting, achieving an accuracy of ~73%, with a loss score of 56%. This project indicates that increasing the number of neurons above 50 and/or increasing layers above 1, only affects the model marginally.
 
 
+To read the full report, open [Alphabet Soup document](alphabet_soup_analysis.pdf).
 
-Review the [analysis](Starter_code.ipynb).
+Review the [analysis](Starter_Code.ipynb).
 
-To review [extra supporting analysis](Start_Code_extra_analysis.ipynb)
+To review [extra supporting analysis](Starter_Code_extra_analysis.ipynb).
 
-The output of the final model is located [here](Output/Charity_Optimization.h5)
+The output of the final model is located [here](Output/Charity_Optimization.h5).
